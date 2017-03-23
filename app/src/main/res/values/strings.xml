@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JavaWidgetControl</string>
+    <string name="text2_str">Second TextView</string>
 </resources>

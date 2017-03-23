@@ -7,7 +7,6 @@
     android:orientation="vertical"
     tools:context="a67yjh00.com.example.lg.javawidgetcontrol.MainActivity">
 
-
     <TextView
         android:id="@+id/text1"
         android:layout_width="wrap_content"
